@@ -1,0 +1,10 @@
+.qa/
+dist/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+videoplayeray.zip
